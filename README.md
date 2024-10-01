@@ -1,5 +1,5 @@
-# Universita Corso di Economia
+# Universita' Corso di Economia
 Questa cartella contiene tutte le informazioni, appunti di lezione, argomenti e contenuti utili del corso di Economia CLE dell'universita' Roma3. Enjoy!
 
-#Per correggere delle informazioni sbagliate o se hai bisogno di aiuto, mandami una mail al mio account istituzionale 
+#Per correggere delle informazioni sbagliate, se vuoi contribuire a integrare il materiale o se hai bisogno di aiuto, mandami una mail al mio account istituzionale 
 dar.abirached@stud.uniroma3.it
