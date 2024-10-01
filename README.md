@@ -5,5 +5,5 @@ Questa cartella contiene tutte le informazioni, appunti di lezione, argomenti e 
 dar.abirached@stud.uniroma3.it
 
 Al momento sto seguendo le lezioni di: 
-<br>- Matematica Generale (Prof. Vellucci [Link Cartella Mate](https://github.com/dabi-rac/University/tree/main/1%C2%B0%20Semestre/Mathematics)
-<br>- Macroeconomia (Prof. Palumbo [Link Cartella Macro](https://github.com/dabi-rac/University/tree/main/1%C2%B0%20Semestre/Macro)
+<br>- Matematica Generale (Prof. Vellucci) [Link Cartella Mate](https://github.com/dabi-rac/University/tree/main/1%C2%B0%20Semestre/Mathematics)
+<br>- Macroeconomia (Prof. Palumbo) [Link Cartella Macro](https://github.com/dabi-rac/University/tree/main/1%C2%B0%20Semestre/Macro)
