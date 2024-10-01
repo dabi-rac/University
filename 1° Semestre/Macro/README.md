@@ -1,4 +1,4 @@
-# Programma Settimanale
+# Programma di Macroeconomia
 
 Benvenuti nel programma settimanale! Di seguito troverai un riepilogo degli argomenti per i prossimi 7 giorni.
 
