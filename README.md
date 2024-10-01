@@ -1,2 +1,5 @@
 # University
-Questa cartella contiene tutti gli appunti, argomenti e contenuti utili del corso di Economia CLE dell'universita' Roma3. Enjoy!
+Questa cartella contiene tutte le informazioni, appunti di lezione, argomenti e contenuti utili del corso di Economia CLE dell'universita' Roma3. Enjoy!
+
+#Per correggere delle informazioni sbagliate o se hai bisogno di aiuto, mandami una mail al mio account istituzionale 
+dar.abirached@stud.uniroma3.it
