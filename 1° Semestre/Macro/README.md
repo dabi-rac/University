@@ -6,7 +6,7 @@ Benvenuti nel programma settimanale! Di seguito troverai un riepilogo degli argo
 
 | **Data**       | **Argomento**                | **Link Utili**                  | **Video**                                  |
 |----------------|------------------------------|---------------------------|--------------------------------------------|
-| **01/10/2024** | introduzione alla macroeconomia, al pil, al pvl, ai soggetti macroeconomici. Ipotesi di mercato chiuso| Link definizione: https://www.treccani.it/enciclopedia/macroeconomia/ /n Link Appunti: |[![video](https://img.youtube.com/vi/aUh7_Iy19oI/0.jpg)](https://youtu.be/aUh7_Iy19oI?si=iS3-6IC6oRi05EqM) |
+| **01/10/2024** | introduzione alla macroeconomia, al pil, al pvl, ai soggetti macroeconomici. Ipotesi di mercato chiuso| Link definizione: https://www.treccani.it/enciclopedia/macroeconomia/ Link Appunti: https://github.com/dabi-rac/University/tree/main/1%C2%B0%20Semestre/Macro/Prima%20Lezione_First%20Lesson%201.10.2024 |[![video](https://img.youtube.com/vi/aUh7_Iy19oI/0.jpg)](https://youtu.be/aUh7_Iy19oI?si=iS3-6IC6oRi05EqM) |
 | **02/10/2024** | *                            | *                         | *                                          |
 | **03/10/2024** | *                            | *                         | *                                          |
 | **04/10/2024** | *                            | *                         | *                                          |
