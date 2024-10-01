@@ -5,6 +5,6 @@ Questa cartella contiene tutte le informazioni, appunti di lezione, argomenti e 
 dar.abirached@stud.uniroma3.it
 
 Al momento sto seguendo le lezioni di: 
-<br>Matematica Generale (Prof. Vellucci) 
-<br>Macroeconomia (Prof. Palumbo)
+<br>-Matematica Generale (Prof. Vellucci) 
+<br>-Macroeconomia (Prof. Palumbo)
 
