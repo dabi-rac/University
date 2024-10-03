@@ -21,3 +21,11 @@ L'**ISTAT** calcola il PIL tramite il **metodo del Valore Aggiunto**, poiché è
 - Come **utile non distribuito** o **Reddito Lordo d'Impresa**.
 
 Dunque, il **Valore Aggiunto** e il **PIL** rappresentano la somma del **Reddito Lordo** di tutta l'economia.
+
+
+Approfondimento riguardo Il Valore Aggiunto
+
+Logica del Valore Aggiunto per Evitare la Doppia Contabilizzazione:
+Quando si calcola il PIL tramite il valore aggiunto, si evita di contare più volte gli stessi beni. Ad esempio:
+Il grano è utilizzato come input per fare il pane. Se contassimo il valore del grano e poi anche il valore del pane senza sottrarre il grano, finiremmo per doppia contabilizzazione (cioè contando lo stesso bene due volte nel PIL).
+Usando il metodo del valore aggiunto, invece, si sottraggono i beni intermedi (come il grano) dal valore finale del pane, contando solo il valore "aggiunto" dalla trasformazione.
