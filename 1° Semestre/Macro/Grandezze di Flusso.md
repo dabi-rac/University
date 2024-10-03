@@ -1,0 +1,1 @@
+grandezze che rappresentano un flusso in un intervallo di tempo, come per esempio il PIL.
