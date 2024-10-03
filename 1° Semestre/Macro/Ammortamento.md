@@ -1,1 +1,0 @@
-L'ammortamento e' quella parte di investimento che va a sostituire il logorio di [[Capitale Fisso]] durante l'anno.
