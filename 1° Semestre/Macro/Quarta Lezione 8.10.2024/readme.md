@@ -1,4 +1,4 @@
-📊 Inflazione, Deflazione e Indicatori Economici
+#📊 Inflazione, Deflazione e Indicatori Economici
 
 🌡️ Inflazione e Deflazione: Indicatori della Salute Economica
 
