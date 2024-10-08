@@ -6,5 +6,5 @@ Al momento sto al primo semestre seguendo le lezioni di:
 <br>- 📊 Macroeconomia (Prof. Palumbo) [Link Cartella Macroeconomia](https://github.com/dabi-rac/University/tree/main/1%C2%B0%20Semestre/Macro)
 
 
-Per correggere delle informazioni sbagliate, se vuoi contribuire a integrare il materiale o se hai bisogno di aiuto, mandami una mail al mio account istituzionale:
+Per correggere delle informazioni sbagliate, se vuoi contribuire a integrare il materiale o se hai bisogno di aiuto, scrivimi su whatsapp oppure mandami una mail:
 dar.abirached@stud.uniroma3.it
