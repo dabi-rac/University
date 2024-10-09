@@ -1,6 +1,6 @@
 # Programma di Macroeconomia
 
-Benvenuti nel programma settimanale! Di seguito troverai un riepilogo degli argomenti per i prossimi 7 giorni.
+Benvenuti nel programma di Macroeconomia! Di seguito troverai un riepilogo degli argomenti per i prossimi 7 giorni.
 
 ---
 
