@@ -1,7 +1,13 @@
 # Programma di Macroeconomia
 
-Benvenuti nel programma di Macroeconomia! Di seguito troverai un riepilogo degli argomenti per i prossimi 7 giorni.
+Benvenuti nel programma completo del corso di Macroeconomia, suddiviso per giornate di lezione!
 
+Ogni giornata include:
+
+📚 Argomenti: I concetti principali trattati nella lezione.
+🔗 Link utili: Collegamenti a risorse esterne per approfondire la teoria e consultare gli appunti.
+🎥 Video di approfondimento: Video esplicativi o correlati all'argomento della lezione, per un ulteriore supporto allo studio.
+Buono studio!
 ---
 
 | **Data**       | **Argomento**                                                                                                    | **Link Utili**                                                                                                                                            | **Video**                                  |
