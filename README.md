@@ -1,5 +1,5 @@
 # Università Roma3 Corso di Economia
-Questa cartella contiene tutte le informazioni, appunti di lezione, argomenti e contenuti utili del corso di Economia CLE dell'università Roma3. Enjoy!
+In questa cartella aggiungo tutte le informazioni, appunti di lezione, argomenti e contenuti utili del corso di Economia CLE dell'università Roma3. Enjoy!
 
 Al momento sto al primo semestre seguendo le lezioni di: 
 <br>- 📐 Matematica Generale (Prof. Vellucci) [Link Cartella Matematica](https://github.com/dabi-rac/University/tree/main/1%C2%B0%20Semestre/Mathematics)
