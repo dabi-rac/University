@@ -1,4 +1,4 @@
-# 📈 Università Roma3 Corso di Economia
+# Università Roma3 Corso di Economia
 In questa cartella aggiungo tutte le informazioni, appunti di lezione, argomenti e contenuti utili del corso di Economia CLE dell'università Roma3, **da uno studente per gli studenti!**  Enjoy!
 
 Al momento sto al primo semestre seguendo le lezioni di: 
