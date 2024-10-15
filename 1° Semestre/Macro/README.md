@@ -22,7 +22,7 @@ Buono studio!
 | **LEZIONE 4 08/10/2024** | Indicatori del livello dei prezzi, deflatore del PIL, tasso di inflazione, indice dei prezzi al consumo, iperinflazione, Indici di lavoro | Link definizione: [Treccani - Inflazione e Deflazione](https://www.treccani.it/enciclopedia/inflazione-e-deflazione_(Enciclopedia-dei-ragazzi)/) <br> Link Appunti di Lezione: [Lezione4](https://github.com/dabi-rac/University/tree/main/1%C2%B0%20Semestre/Macro/Quarta%20Lezione%208.10.2024) | [![video](https://img.youtube.com/vi/uQXyi-IDFFc/0.jpg)](https://youtu.be/uQXyi-IDFFc?si=iHbhJTMkpdhaSjQ3) |
 | **LEZIONE 5 09/10/2024** | Teoria economica, Economia Politica Classica, Teoria Neoclassica                                                                                                              | Link Appunti di Lezione: [Lezione 5](https://github.com/dabi-rac/University/tree/main/1°%20Semestre/Macro/Lezione%205%20Macro%209.10.2024)                                                                                                                                                         | [![video](https://img.youtube.com/vi/OBlugbsCeM4/0.jpg)](https://youtu.be/OBlugbsCeM4?si=JZLL9azy80UGvWrx)|
 | **LEZIONE 6 14/10/2024** | Domanda e Offerta, Prezzo di equilibrio, Concorrenza, Mercato del Lavoro, Relazione tra Risparmi e Investimenti, Investimenti Export e Investimenti puri, Principio della Domanda Effettiva.       |  Link Appunti di Lezione: [Lezione 6](https://github.com/dabi-rac/University/tree/main/1°%20Semestre/Macro/Lezione%206%20Macro%2014.10.2024)       |    [![Macroeconomics Lesson](https://img.youtube.com/vi/GfoHWsPbJFU/0.jpg)](https://youtu.be/GfoHWsPbJFU?si=-kSzc6gsGcn7SPPs)
-     | 
+     
 ---
 
 ## Risorse Aggiuntive
