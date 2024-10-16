@@ -1,3 +1,10 @@
+## Appunti di Lezione 5 Macro
+
+[Link Appunti Lezione 5 Macro 09.10.2024](https://github.com/dabi-rac/University/blob/main/1%C2%B0%20Semestre/Macro/Lezione%205%20Macro%209.10.2024/Lezione%20Macroeconomia%209%20ottobre%202024.pdf)
+
+
+
+
 #  📘 Lezione di Macroeconomia - 9 Ottobre 2024
 Durante questa lezione abbiamo esplorato le fasi del pensiero economico, partendo dalla nascita della teoria economica fino alle moderne teorie neoclassiche
 
