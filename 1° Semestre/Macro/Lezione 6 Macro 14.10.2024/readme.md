@@ -4,7 +4,7 @@
 
 
 
-##Sintesi Lezione 
+## Sintesi Lezione 
 
 ## Differenze tra Economisti Classici e Teoria Neoclassica 📊
 
