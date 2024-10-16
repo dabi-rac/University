@@ -5,7 +5,7 @@
 
 
 
-# 📊 Sintesi Lezione Indicatori economici
+## 📊 Sintesi Lezione Indicatori economici
 
  🌡️ Inflazione e Deflazione: Indicatori della Salute Economica
 
