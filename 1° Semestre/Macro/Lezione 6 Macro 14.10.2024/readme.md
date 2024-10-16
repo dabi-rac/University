@@ -1,3 +1,11 @@
+## Appunti di Lezione 6 Macro
+
+[Link Appunti Lezione 6 Macro 14.10.2024](https://github.com/dabi-rac/University/blob/main/1%C2%B0%20Semestre/Macro/Lezione%206%20Macro%2014.10.2024/Lezione%20Macroeconomia%2014%20ottobre%202024.pdf)
+
+
+
+##Sintesi Lezione 
+
 ## Differenze tra Economisti Classici e Teoria Neoclassica 📊
 
 La differenza tra gli economisti classici e la teoria neoclassica si fonda principalmente sulla visione riguardante il funzionamento del mercato, in particolare sul rapporto tra risparmi e investimenti e sul ruolo del tasso di interesse.
