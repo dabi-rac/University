@@ -8,5 +8,6 @@ Al momento sto al primo semestre seguendo le lezioni di:
 <br>- Sto lavorando su una guida per installare jupiter e far funzionare i file dei grafici in python che il prof. Vellucci carica su Moodle! Stay tuned...
 
 
+
 Per correggere delle informazioni sbagliate, se vuoi contribuire a integrare il materiale o se hai bisogno di aiuto, scrivimi su whatsapp oppure mandami una mail:
 dar.abirached@stud.uniroma3.it
