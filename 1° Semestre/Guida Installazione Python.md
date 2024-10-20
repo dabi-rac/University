@@ -1,4 +1,4 @@
-# Guida Passo-Passo per Impostare Jupyter Notebooks in Visual Studio Code 🐍💻
+# Guida Passo-Passo per Impostare Jupyter Notebooks in Visual Studio Code e utilizzare i file del prof. Vellucci🐍💻
 
 ## 1. Installa Python
 Se non hai già installato Python, segui questi passaggi:
