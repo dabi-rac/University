@@ -1,5 +1,5 @@
 # Lezione Macroeconomia - 21 Ottobre 2024
-# [Link Appunti Lezione 11](https://github.com/dabi-rac/University/blob/main/1°%20Semestre/Macro/Lezione11%20Macro%2021.10.2024/Lezione%20Macroeconomia%2021%20ottobre%202024.pdf)
+[Link Appunti Lezione 11](https://github.com/dabi-rac/University/blob/main/1°%20Semestre/Macro/Lezione11%20Macro%2021.10.2024/Lezione%20Macroeconomia%2021%20ottobre%202024.pdf)
 
 
 
