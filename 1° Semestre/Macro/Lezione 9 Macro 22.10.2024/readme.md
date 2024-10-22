@@ -1,4 +1,8 @@
 # Lezione Macroeconomia - 22 Ottobre 2024
+[Link Appunti Lezione 9 Macro](https://github.com/dabi-rac/University/blob/main/1°%20Semestre/Macro/Lezione%209%20Macro%2022.10.2024/Lezione%20Macroeconomia%2022%20ottobre%202024.pdf)
+
+
+
 
 ## Argomenti
 - Delta Investimenti e effetti sull'economia chiusa
