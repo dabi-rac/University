@@ -6,6 +6,7 @@ Se non hai già installato Python, segui questi passaggi:
 - **Importante:** Durante l'installazione, spunta la casella **"Add Python to PATH"** (Aggiungi Python al PATH). Questo è essenziale affinché VS Code riconosca Python.
 
 ## 2. Installa Visual Studio Code (VS Code)
+- Visual Studio e' un text editor che permette di avere feature avanzate.
 - Scarica e installa VS Code dal [sito ufficiale di VS Code](https://code.visualstudio.com/).
 - Una volta installato, apri VS Code.
 
@@ -51,3 +52,8 @@ Con l'ambiente virtuale attivato, installa le librerie necessarie per il tuo not
 ```bash
 pip install numpy
 pip install plotly
+```
+
+## 7. Fatto! 
+Ora puoi aprire, modificare e runnare questi file e visualizzare grafici all'interno di visual studio!
+Se hai bisogno di aiuto o la guida non ti risulta chiara, cercami a lezione o scrivimi su l'email di istituto! 
